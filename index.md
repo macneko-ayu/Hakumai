@@ -12,7 +12,7 @@ v0.0.7, 2015/1/10 (for Mac OS X 10.10-)
 
 ## About Hakumai
 
-<img src="/image/main.png" width="525px">
+<img src="./image/main.png" width="525px">
 
 * Hakumai は Mac OS X で動作するニコニコ生放送用のコメントビューア(コメビュ)です。
     * 自分が使えればいい程度に作っているので、いろいろ手抜きです。
