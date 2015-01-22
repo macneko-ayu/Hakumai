@@ -7,3 +7,7 @@ description: HakumaiはMac OS Xに対応したニコニコ生放送用のコメ�
 markdown: kramdown
 
 exclude: ["README.md"]
+
+# Binary version
+binary_version: 0.0.13
+binary_date: 2015/1/22
