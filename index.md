@@ -12,7 +12,7 @@ v{{site.binary_version}}, {{site.binary_date}} (for Mac OS X 10.10-)
 
 ## About Hakumai
 
-<img src="./image/main.png" width="525px">
+<img src="./image/main.png" width="550px">
 
 * Hakumai は Mac OS X で動作するニコニコ生放送用のコメントビューア(コメビュ)です。
     * 自分が使えればいい程度に作っているので、いろいろ手抜きです。
@@ -42,6 +42,11 @@ Keychain Accessで"com.honishi.Hakumai.account"のエントリを削除(あれ�
 ## App Also Available
 
 * Mac 用ニコ生アラート Ankoku Alert [[AppStore](https://itunes.apple.com/jp/app/ankoku-alert/id447599289)] [[github](https://github.com/honishi/AnkokuAlert)]
+
+## Special Thanks To
+
+* とい, 飯塚健一郎, らみあ, 田口潤, 森一真
+* 大原直人, 桜ほたる
 
 ## Contacts
 
