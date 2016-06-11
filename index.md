@@ -47,7 +47,7 @@ Keychain Accessで"com.honishi.Hakumai.account"のエントリを削除(あれ�
 ## Special Thanks To
 
 * とい, 飯塚健一郎, らみあ, 田口潤, 森一真
-* 大原直人, 桜ほたる
+* 大原直人, 桜ほたる, Daijiro Wachi
 
 ## Contacts
 
