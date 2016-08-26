@@ -20,7 +20,7 @@ v{{site.binary_version}}, {{site.binary_date}} (for Mac OS X 10.10-)
 
 ## Main Features
 
-* Chrome の Session クッキー共有に対応
+* Google Chrome と Safari の Session クッキー共有に対応
 * アリーナから立ち見まで1ウィンドウ内に表示
 * ユーザー生放送、チャンネル放送の両方に対応
 * コテハンの自動登録機能
